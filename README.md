@@ -1,5 +1,5 @@
 # Main Blockchain Articles
 
-Articles about Blockchain in Portuguese
+[Articles about Blockchain in English](./en/)
 
-[Articles about Blockchain in English](./pt/)
+[Artigos sobre blockchain em Português](./en/)
