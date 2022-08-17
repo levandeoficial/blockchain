@@ -2,4 +2,4 @@
 
 [Articles about Blockchain in English](./en/)
 
-[Artigos sobre blockchain em Português](./en/)
+[Artigos sobre blockchain em Português](./pt/)
