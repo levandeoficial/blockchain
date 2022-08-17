@@ -2,4 +2,4 @@
 
 Articles about Blockchain in Portuguese
 
-Articles about Blockchain in English
+[Articles about Blockchain in English](./pt/)
