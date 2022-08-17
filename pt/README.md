@@ -9,6 +9,6 @@ Aqui iremos concentrar os principais conteúdos de Blockchain publicados em noss
 - **O que é NFT? NFT o que é isso? O que é um Token Não Fungível?**
 Os NFTs ou non-fungible tokens (tokens não fungíveis) já tem bastante atenção após memes e artistas abrirem as portas para o mercado, atualmente, bilionário. [Veja tudo o que você precisa saber sobre NFT](https://levande.co/pt/174/tudo-o-que-voce-precisa-saber-sobre-nft/)
 
-- **https://levande.co/pt/186/tudo-o-que-voce-precisa-saber-sobre-blockchain/**
+- **Quais blockchains existem? O que é Blockchain? Como funciona a blockchain?**
 
 2022 é o ano do Blockchain. A Blockchain deve prevalecer entre as tecnologias impulsionadas pela transformação digital. [Veja tudo o que você precisa saber sobre Blockchain](https://levande.co/pt/186/tudo-o-que-voce-precisa-saber-sobre-blockchain/)
