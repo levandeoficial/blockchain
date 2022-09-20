@@ -15,6 +15,8 @@
 - We do have a repository SEO optimized to share news about blockchain
 
 ## How can you help?
+- You can help by writing guest posts here
+- You can help by moderating the posts here
 
 [Articles about Blockchain in English](./en/)
 
