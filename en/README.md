@@ -2,7 +2,9 @@
 
 Here we will focus on the main Blockchain contents published on our blog in English
 
-[Blog about Blockchain em English](https://levande.co/)
+# Articles from internet indexed in 2022
+- [Checkout the Latest News about Blockchain from 2022](./2022)
+- [Blog about Blockchain em English](https://levande.co/)
 
 # Published Articles
 
