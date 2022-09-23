@@ -11,3 +11,4 @@ These are the latest news about blockchain for Sep 2022
     - [Crypto Weekly: the urge to merge - Reuters](https://www.reuters.com/video/watch/idOV663720092022RP1) 
     - [Mexican used-car startup Kavak lands $810 mln in debt financing - Reuters](https://www.reuters.com/business/autos-transportation/mexican-used-car-startup-kavak-lands-810-mln-debt-financing-2022-09-20/) 
     - [Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot - Reuters](https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/) 
+- ### [Blockchain News Sep, ](./23)
