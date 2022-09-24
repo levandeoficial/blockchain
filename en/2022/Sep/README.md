@@ -33,3 +33,4 @@ These are the latest news about blockchain for Sep 2022
     - [Tesla recalls nearly 1.1 million U.S. vehicles to update window reversing software - Reuters](https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-11-million-us-vehicles-update-window-reversing-software-2022-09-22/) 
     - [Sustainable fuel startup Air Company to sell to JetBlue, Virgin Atlantic - Reuters](https://www.reuters.com/business/sustainable-business/sustainable-fuel-startup-air-company-sell-jetblue-virgin-atlantic-2022-09-22/) 
     - [Analysis: Amid tense Brazil election, Petrobras emerges as surprise market darling - Reuters](https://www.reuters.com/business/energy/amid-tense-brazil-election-petrobras-emerges-surprise-market-darling-2022-09-22/) 
+- ### [Blockchain News Sep, 24](./24)
